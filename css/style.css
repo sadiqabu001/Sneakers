@@ -1,0 +1,291 @@
+body{
+    background-color: white;
+    margin:20px;
+}
+.sneak{
+    border:1px solid black;
+    background-color:antiquewhite;
+    margin:0px 0px 0px 0px;
+    padding-left:8px;
+    text-align: center;
+    text-decoration: none;
+    font-size:20px;
+    
+
+}
+.s2{
+    display:inline;
+}
+#snk{
+    border-radius:5px;
+    margin:20px 0px 20px 30px;
+}
+#b{
+    margin:0px 0px 0px 0px;
+    display:inline-block;
+    position: relative;
+    top:30px;
+    left:400px;
+    right:50px;
+}
+#i{
+    position: relative;
+    top:35px;
+    left:500px;
+    right:20px;
+    display: inline;
+    border-radius:60%;
+
+}
+ul{
+    list-style-type:none;
+    text-decoration: none;
+    margin:20px 0px 100px 0px ;
+    padding:0;
+    background-color:antiquewhite;
+    
+}
+li{
+    float:left;
+    border-right:1px solid #bbb;
+    
+    
+    
+
+
+}
+li a{
+    display: block;
+    color:white;
+    text-align: center;
+    padding:14px 16px;
+    text-decoration: none;
+    margin:0px 15px 15px 30px;
+}
+#no1{
+    border-radius:20px;
+    margin-left: 30px;
+
+}
+.in{
+    float:right;
+    margin-right:800px;
+    margin-top:40px;
+
+}
+h4{
+    color:darkgoldenrod;
+
+}
+h3{
+    font-size: 50px;
+    text-transform: capitalize;
+    
+}
+p{
+    text-align: justify;
+    line-height:1.6;
+}
+.digit1{
+    font-size: 20px;
+
+}
+.digit2{
+    border:0px solid black;
+    color:darkorange;
+    background-color: antiquewhite;
+}
+.ccart{
+    width:150px;
+    margin-bottom:200px;
+    margin-left:2px;
+    margin-top:10px;
+
+}
+#d{
+    color:white;
+}
+.active{
+    font-weight: bolder;
+    font-size:20px;
+
+    
+}
+.qun{
+    border:0px solid black;
+    float: left;
+    background-color:antiquewhite;
+
+}
+.s1{
+    border: 0px solid black;
+    color:red;
+    background-color:antiquewhite;
+    font-size:20px;
+    font-weight:bolder;
+    word-spacing:59px;
+    margin-right: 7px;
+}
+.s3{
+    border: 0px solid black;
+    color:red;
+    background-color:antiquewhite;
+    font-size:20px;
+    font-weight:bolder;
+    word-spacing:59px;
+    margin-left: 7px;
+}
+.tocart{
+    border:1px solid darkorange;
+    color:white;
+    background-color:darkorange;
+    border-radius:5px;
+    text-align:center;
+    margin-left:60px;
+    width: 200px;
+    
+}
+/* secondline section */
+.seak{
+    border:1px solid black;
+    background-color:red;
+    margin:0px 0px 0px 0px;
+    padding-left:8px;
+    text-align: center;
+    text-decoration: none;
+    font-size:20px;
+    
+
+}
+.s2{
+    display:inline;
+}
+#snk{
+    border-radius:5px;
+    margin:20px 0px 20px 30px;
+}
+#b{
+    margin:0px 0px 0px 0px;
+    display:inline-block;
+    position: relative;
+    top:30px;
+    left:400px;
+    right:50px;
+}
+#i{
+    position: relative;
+    top:35px;
+    left:500px;
+    right:20px;
+    display: inline;
+    border-radius:60%;
+
+}
+.ul2{
+    list-style:none;
+    text-decoration: none;
+    margin:20px 0px 100px 0px ;
+    padding:0;
+    background-color:red;
+    
+}
+li{
+    float:left;
+    border-right:1px solid #bbb;
+    
+    
+    
+
+
+}
+li a{
+    display: block;
+    color:white;
+    text-align: center;
+    padding:14px 16px;
+    text-decoration: none;
+    margin:0px 15px 15px 30px;
+}
+#no1{
+    border-radius:20px;
+    margin-left: 30px;
+
+}
+.in{
+    float:right;
+    margin-right:800px;
+    margin-top:40px;
+
+}
+h4{
+    color:darkgoldenrod;
+
+}
+h3{
+    font-size: 50px;
+    text-transform: capitalize;
+    
+}
+p{
+    text-align: justify;
+    line-height:1.6;
+}
+.digit1{
+    font-size: 20px;
+
+}
+.digit2{
+    border:0px solid black;
+    color:darkorange;
+    background-color: antiquewhite;
+}
+.ccart{
+    width:150px;
+    margin-bottom:200px;
+    margin-left:2px;
+    margin-top:10px;
+
+}
+#d{
+    color:white;
+}
+.active{
+    font-weight: bolder;
+    font-size:20px;
+
+    
+}
+.qun{
+    border:0px solid black;
+    float: left;
+    background-color:antiquewhite;
+
+}
+.s1{
+    border: 0px solid black;
+    color:red;
+    background-color:antiquewhite;
+    font-size:20px;
+    font-weight:bolder;
+    word-spacing:59px;
+    margin-right: 7px;
+}
+.s3{
+    border: 0px solid black;
+    color:red;
+    background-color:antiquewhite;
+    font-size:20px;
+    font-weight:bolder;
+    word-spacing:59px;
+    margin-left: 7px;
+}
+.tocart{
+    border:1px solid darkorange;
+    color:white;
+    background-color:darkorange;
+    border-radius:5px;
+    text-align:center;
+    margin-left:60px;
+    width: 200px;
+    
+}
